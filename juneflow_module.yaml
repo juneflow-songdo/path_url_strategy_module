@@ -6,10 +6,10 @@
 copy_path:
 # - lib/util/_/initial_app/build_app_widget/build_material_app/path_url_strategy_module
 # - lib/util/_/initial_app/build_app_widget/build_my_app/path_url_strategy_module
- - lib/util/_/initial_app/build_app_widget/build_run_app/path_url_strategy_module
+# - lib/util/_/initial_app/build_app_widget/build_run_app/path_url_strategy_module
 # - lib/util/_/initial_app/ready_functions/after_material_app/path_url_strategy_module
 # - lib/util/_/initial_app/ready_functions/before_material_app/path_url_strategy_module
-# - lib/util/_/initial_app/ready_functions/before_run_app/path_url_strategy_module
+ - lib/util/_/initial_app/ready_functions/before_run_app/path_url_strategy_module
 # - lib/util/_/module_functions/path_url_strategy_module
 # - lib/util/_/shared_params/path_url_strategy_module
 # - lib/util/config/path_url_strategy_module
