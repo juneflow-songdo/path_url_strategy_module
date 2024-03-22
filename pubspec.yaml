@@ -1,7 +1,7 @@
 name: path_url_strategy_module
-description: "JuneFlow Project"
+description: "JuneFlow Module. Path URL Strategy."
 #publish_to: 'none'
-repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/path_url_strategy_module
 
 version: 1.0.0+1
 
