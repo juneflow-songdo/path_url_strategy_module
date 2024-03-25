@@ -3,7 +3,7 @@ description: "JuneFlow Module. Path URL Strategy."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/path_url_strategy_module
 
-version: 1.0.0+3
+version: 1.0.0+4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
