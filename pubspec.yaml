@@ -1,9 +1,9 @@
 name: path_url_strategy_module
-description: "JuneFlow Module. Path URL Strategy."
+description: "This option allows the site to operate like a typical website without attaching a # to the URL on the web. Applying this module will make the project work on the web only."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/path_url_strategy_module
 
-version: 1.0.0+4
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
